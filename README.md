@@ -1,5 +1,5 @@
 # Dawn_Memories_UE5
-Updadte to Unreal Engine 5.10
+Update to Unreal Engine 5.10
 
 Jogo desenvolvido para o Projeto Técnico Interdisciplinar (PTI), do último ano do Ensino Médio Técnico de Programação de Jogos Digitais, no Colégio FECAP.
 
