@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Black/Desktop/DawnMemories 5.1/Content/Personagem_Principal/Rigado_ALS_BONES_Physics.uasset",
+				"C:/Users/Black/Desktop/DawnMemories 5.1/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/PhysicsAssets/AnimMan_PhysicsAsset.uasset",
+				"C:/Users/Black/Desktop/DawnMemories 5.1/Content/Personagem_Principal/Rigado_ALS_BONES.uasset",
+				"C:/Users/Black/Desktop/DawnMemories 5.1/Content/Levels/Maps/Game.umap",
+				"C:/Users/Black/Desktop/DawnMemories 5.1/Content/ThirdPersonBP/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.uasset",
+				"C:/Users/Black/Desktop/DawnMemories 5.1/Content/WorldAssets/Car/Carro.uasset",
+				"C:/Users/Black/Desktop/DawnMemories 5.1/Content/Levels/MainMenu/MainMenu.umap",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset",
+				"C:/Users/Black/Desktop/DawnMemories 5.1/Content/Levels/MainMenu/Props/Janelas/lambert1.uasset",
+				"C:/Users/Black/Desktop/DawnMemories 5.1/Content/Levels/MainMenu/Materials/Paredes/Paredes.uasset",
+				"C:/Users/Black/Desktop/DawnMemories 5.1/Content/Levels/MainMenu/Props/Janelas/Paredes__Office_Window_Glass_001.uasset",
+				"C:/Users/Black/Desktop/DawnMemories 5.1/Content/Levels/MainMenu/Materials/RainShader/RainyGlassMat.uasset",
+				"C:/Users/Black/Desktop/DawnMemories 5.1/Content/Levels/MainMenu/Materials/RainShader/RainyGlass_Inst.uasset",
+				"C:/Users/Black/Desktop/DawnMemories 5.1/Content/Levels/MainMenu/Props/Janelas/RainyGlass_Inst.uasset"
+			]
+		}
+	]
+}
